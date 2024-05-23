@@ -32,5 +32,34 @@ namespace comp311_lab3
 
         }
 
+        [TestMethod]
+
+        public void RooterTestNegativeInputx()
+
+        {
+
+            Rooter rooter = new Rooter();
+
+            try
+
+            {
+
+                rooter.SquareRoot(-10);
+
+            }
+
+            catch (ArgumentOutOfRangeException e)
+
+            {
+
+                return;
+
+            }
+
+            Assert.Fail();
+
+        }
+
+
     }
 }
