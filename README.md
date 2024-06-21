@@ -1,5 +1,7 @@
 # TDD with Visual Studio
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/comp311-lab3)
+
 The purpose of this assignment is to experience Test-Driven Development (TDD) using unit testing tools in Visual Studio (VS). You will be guided through using unit tests to develop a method of a class. Additionally, you will review an article critical of TDD, discuss its points in your group, and write conclusions. The focus is on an intelligent discussion of the merits and demerits of TDD from your point of view, rather than finding a right or wrong answer. If your group does not agree with any particular points, you are encouraged to express this.
 
 ## Walkthrough: Using Unit Tests to Develop a Method
